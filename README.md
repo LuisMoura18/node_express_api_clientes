@@ -22,7 +22,9 @@ A API permite as seguintes operações:
    ```bash
    git clone https://github.com/LuisMoura18/node_express_api_clientes/blob/main/server.js
 
-## Desenvolvido por: Luis Andre Moura.
+## Desenvolvido por: 
+
+Luis Andre Moura.
 
 Orientador Hudson Neves
 https://github.com/HudsonNeves
