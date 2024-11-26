@@ -26,5 +26,5 @@ A API permite as seguintes operações:
 
 Luis Andre Moura.
 
-Orientador Hudson Neves
+Orientador: Hudson Neves
 https://github.com/HudsonNeves
